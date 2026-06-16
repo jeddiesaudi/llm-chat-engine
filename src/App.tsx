@@ -1,4 +1,5 @@
-import { useState, useEffect, useRef, KeyboardEvent } from 'react';
+import { useState, useEffect, useRef } from 'react';
+import type { KeyboardEvent } from 'react';
 import { useStreamingChat } from './hooks/useStreamingChat';
 
 const STORAGE_KEY = 'llm_chat_api_key';
