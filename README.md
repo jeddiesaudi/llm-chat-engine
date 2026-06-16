@@ -2,7 +2,7 @@
 
 A streaming chat interface built the way it should be — real token-by-token streaming, clean TypeScript, no SDK black boxes.
 
-**[Live Demo →](https://llm-chat-engine.vercel.app)**
+**[Live Demo →](https://llm-chat-engine-ten.vercel.app/)**
 
 ![Demo](demo.gif)
 
